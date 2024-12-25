@@ -1,0 +1,19 @@
+{
+  "Version": 1,
+  "Hash": "zv9MfVdK/UjbCTEFwVtYzUP8aQtAijdrnz+faDdshIU=",
+  "Source": "React",
+  "BasePath": "_content/React",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "React\\wwwroot",
+      "Source": "React",
+      "ContentRoot": "C:\\Users\\Chetsada\\Downloads\\React\\React\\wwwroot\\",
+      "BasePath": "_content/React",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": []
+}
